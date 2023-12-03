@@ -1,0 +1,7 @@
+D:\mphasis\practiceproject\PracticeProject4\PracticeProject4\PracticeProject4\bin\Debug\PracticeProject4.exe.config
+D:\mphasis\practiceproject\PracticeProject4\PracticeProject4\PracticeProject4\bin\Debug\PracticeProject4.exe
+D:\mphasis\practiceproject\PracticeProject4\PracticeProject4\PracticeProject4\bin\Debug\PracticeProject4.pdb
+D:\mphasis\practiceproject\PracticeProject4\PracticeProject4\PracticeProject4\obj\Debug\PracticeProject4.csproj.AssemblyReference.cache
+D:\mphasis\practiceproject\PracticeProject4\PracticeProject4\PracticeProject4\obj\Debug\PracticeProject4.csproj.CoreCompileInputs.cache
+D:\mphasis\practiceproject\PracticeProject4\PracticeProject4\PracticeProject4\obj\Debug\PracticeProject4.exe
+D:\mphasis\practiceproject\PracticeProject4\PracticeProject4\PracticeProject4\obj\Debug\PracticeProject4.pdb
